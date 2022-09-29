@@ -27,11 +27,8 @@ The below are columns reference:
 # Data Analytics Step 
 
 • Data Collection from Blossom Bank
-
 • Clean Data: Exploration and Transformation
-
 • Analyze Data: Modeling and Prediction
-
 • Interpret result: Evaluation
 
 *Inspection: My data was inspected from head to tail.
